@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+}
+
+.menu{
+    margin: 50px;
+}
+
+.homepage{
+    background-color: lightcoral;
+    text-align: center;
+}
+
+.homepage ul{
+    list-style-type: none;
+}
+
+.menu{
+    width: 400px;
+    margin: 40px auto;
+}
+
+.menu a{
+    font-size: 40px;
+    display: block;
+    padding: 12px;
+    background-color: #1f2937;
+    color: #f9faf8;
+    border: 2px solid #f9faf8;
+    text-decoration: none;
+    border-radius: 20px;
+}
+
+.menu a:hover{
+    background-color: #020617;
+    border-color: #f97316;
+}
+
+.rajma-chawal{
+    background-color:  #FFFDD0;
+    color: #654321;
+}
+
+.kaju-katli{
+    background-color: silver;
+    color: #654321;
+}
+
+.rasmalai{
+   background-color: #FFDF00;
+   color: #800000;
+}
